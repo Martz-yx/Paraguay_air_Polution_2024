@@ -52,7 +52,7 @@ This repository is organized as follows:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Martz-yx/Paraguay_air_Polution_2024.git
+   git clone https://github.com/Martz-yx/paraguay-air-pollution-2024.git
    ```
 
 2. **Open the project in RStudio** (or your preferred IDE).
