@@ -1,0 +1,23 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Output
+*.html
+*.pdf
+# Keep the docs pdfs though
+!docs/*.pdf
+
+# Temp logic
+temp/
